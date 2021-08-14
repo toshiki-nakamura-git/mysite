@@ -1,4 +1,2 @@
-
-REQUIREMENT
-#streamlit
-#Pillow
+streamlit
+Pillow
